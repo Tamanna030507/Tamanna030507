@@ -1,29 +1,9 @@
-
-```markdown
 <div align="center">
-
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=~/tamanna+%24+python+train.py+--forever;AI%2FML+Engineer;Building+Resilient+AI;Adversarial+ML+Researcher" alt="Typing SVG" />
-</a>
-
-<h1 style="color: #38bdf8; font-size: 3em; margin: 0; font-family: monospace;">Tamanna Bal</h1>
-<h3 style="color: #818cf8; margin-top: 0;">Building Resilient AI</h3>
-<p style="color: #94a3b8; font-family: monospace;">B.Tech CSE @ Manipal University Jaipur • Jaipur, India</p>
-
-<img src="https://img.shields.io/badge/-agentic_ai-38bdf8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-llms-38bdf8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-adversarial_ml-38bdf8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-ml_pipelines-38bdf8?style=for-the-badge" />
-
-<br/><br/>
-
-<!-- Glowing Blue Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=120&section=header&text=Welcome%20to%20the%20Neural%20Core&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
+![Tamanna Bal](assets/banner.svg)
+![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+resilient+AI+that+survives+attacks;Breaking+models+so+they+dont+break+in+prod;Multi-agent+orchestration+%2B+adversarial+ML;HackDays+Delhi+Top+5+%7C+India+Innovates+Finalist)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-tamanna--bal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![Email](https://img.shields.io/badge/Email-Say%20hi-38BDF8?style=for-the-badge&logo=gmail&logoColor=white) ![Profile views](https://komarev.com/ghpvc/?username=Tamanna030507&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)
 </div>
-
-## >>> print(model.summary())
+`>>> print(model.summary())`
 ```python
 class Tamanna(nn.Module):
     def __init__(self):
@@ -36,9 +16,8 @@ class Tamanna(nn.Module):
 
     def forward(self, idea):
         return ship(break_it_fix_it(idea))
-```
 
-##  The Lab 
+## The Lab 
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
@@ -48,7 +27,7 @@ class Tamanna(nn.Module):
 | **[VRDAN](https://github.com/Tamanna030507/vrdan)** | Multilingual AgriTech platform with offline AI fallback | React, Claude API, Supabase |
 | **[VEYO](https://github.com/Tamanna030507/VEYO)** | Full-stack JavaScript application | JavaScript, Node.js |
 
-## Battle Record (Achievements)
+##  Battle Record (Achievements)
 
 | Benchmark | Result | Project |
 |-----------|--------|---------|
@@ -66,7 +45,7 @@ class Tamanna(nn.Module):
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tamanna030507/Tamanna030507/output/github-snake.svg" alt="Snake Animation" />
+![Snake](https://raw.githubusercontent.com/Tamanna030507/Tamanna030507/output/github-snake-dark.svg)
 </div>
 
 <!-- 3D Isometric Globe (Replaces standard graphs) -->
@@ -74,7 +53,7 @@ class Tamanna(nn.Module):
   <img src="https://github-profile-3d-contrib.vercel.app/api/graph?username=Tamanna030507&theme=github-dark" />
 </div>
 
-## GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tamanna030507&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0D1117" width="48%" />
@@ -104,7 +83,6 @@ class Tamanna(nn.Module):
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
 ---
 
 <div align="center">
@@ -121,6 +99,3 @@ class Tamanna(nn.Module):
 </a>
 
 </div>
-```
-
-
