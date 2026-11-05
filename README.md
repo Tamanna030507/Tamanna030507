@@ -2,7 +2,7 @@
 
 ![Tamanna Bal](assets/banner.svg)
 
-[![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+resilient+AI+that+survives+attacks;Breaking+models+so+they+dont+break+in+prod;Multi-agent+orchestration+%2B+adversarial+ML;HackDays+Delhi+Top+5+%7C+India+Innovates+Finalist)](https://github.com/Tamanna030507)
+[![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+resilient+AI+systems+that+survive+adversarial+attacks;Designing+multi-agent+orchestration+architectures;Quantifying+catastrophic+model+collapse+via+feedback+poisoning;Engineering+secure%2C+decentralized+edge+AI+systems)](https://github.com/Tamanna030507)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tamanna--bal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamanna-bal-29502239a/) [![Email](https://img.shields.io/badge/Email-Say%20hi-38BDF8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamannbal2007@gmail.com) [![Profile views](https://komarev.com/ghpvc/?username=Tamanna030507&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)](https://github.com/Tamanna030507)
 
@@ -24,7 +24,7 @@ class Tamanna(nn.Module):
         return ship(break_it_fix_it(idea))
 ```
 
-##  The Lab
+## The Lab
 
 <div align="center">
 
@@ -36,13 +36,14 @@ class Tamanna(nn.Module):
 
 ## Achievements
 
-| Benchmark | Result | Model (project) |
-|-----------|--------|-----------------
-| **HackDays Delhi 2026** |  **Top 5 of 1,000+** | 
-| **India Innovates 2026** |  **National Finalist** (10M+ applicants) | 
-| **Policy Conclave '26, IIT Kanpur** |  **Top 50 of 2,000+ teams** | 
+| Benchmark | Result |
+|-----------|--------|
+| **HackDays Delhi 2026** | **Top 5 of 1,000+** |
+| **India Innovates 2026** | **National Finalist** (10M+ applicants) |
+| **Policy Conclave '26, IIT Kanpur** | **Top 50 of 2,000+ teams** |
+| **Modular Nexus 2025** | **2nd Position** |
 
-##  Contribution snake
+## Contribution snake
 
 <div align="center">
 
@@ -50,7 +51,7 @@ class Tamanna(nn.Module):
 
 </div>
 
-##  Activity
+## Activity
 
 <div align="center">
 
@@ -58,14 +59,51 @@ class Tamanna(nn.Module):
 
 </div>
 
-##  Stack
+## Stack
 
-| | |
-|---:|:---|
-| **Languages** | ![](https://skillicons.dev/icons?i=py,cpp,java,js,ts&theme=dark&perline=12) |
-| **AI / ML** | ![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=12) |
-| **Web & backend** | ![](https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,supabase&theme=dark&perline=12) |
-| **Infra** | ![](https://skillicons.dev/icons?i=docker,git,github&theme=dark&perline=12) |
+**Languages:**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / ML / Deep Learning:**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-150458?style=for-the-badge&logo=xgboost&logoColor=white)
+
+**Web & Backend:**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Infrastructure & Security:**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Ed25519](https://img.shields.io/badge/Ed25519-38bdf8?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ![Footer](assets/footer.svg)
