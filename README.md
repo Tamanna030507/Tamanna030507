@@ -4,7 +4,7 @@
 
 [![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+resilient+AI+systems+that+survive+adversarial+attacks;Designing+multi-agent+orchestration+architectures;Quantifying+catastrophic+model+collapse+via+feedback+poisoning;Engineering+secure%2C+decentralized+edge+AI+systems)](https://github.com/Tamanna030507)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tamanna--bal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamanna-bal-29502239a/) [![Email](https://img.shields.io/badge/Email-Say%20hi-38BDF8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamannbal2007@gmail.com) [![Profile views](https://komarev.com/ghpvc/?username=Tamanna030507&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)](https://github.com/Tamanna030507)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tamanna--bal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamanna-bal-29502239a/) [![Email](https://img.shields.io/badge/Email-Say%20hi-38BDF8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamannabal2007@gmail.com) [![Profile views](https://komarev.com/ghpvc/?username=Tamanna030507&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)](https://github.com/Tamanna030507)
 
 </div>
 
